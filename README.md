@@ -1,7 +1,7 @@
-Sivhour Le (Student ID: 916541055)
-Computer Science Major 
-Temple University 
-CIS 1051 
+Sivhour Le (Student ID: 916541055)< br/>
+Computer Science Major < br/>
+Temple University < br/>
+CIS 1051 < br/>
 
 11/5/2024 Python Preposal Project Start Date 
 
