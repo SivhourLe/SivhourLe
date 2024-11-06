@@ -4,22 +4,21 @@
 
 TODO
 
-breakout arcade game
-making food simulation
-spring simulation 
-badminton game 
-visual novel 
-rhythm game 
-discord/telegram bot
+breakout arcade game<br/>
+making food simulation<br/>
+spring simulation <br/>
+badminton game <br/>
+visual novel <br/>
+rhythm game <br/>
+discord/telegram bot<br/>
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
 TODO
 
-Katerina Papamichail
+Katerina Papamichail<br/>
 Anastasiia Chystukh
 
 ## Do you have any questions of your own?
 
-TODO
 None
